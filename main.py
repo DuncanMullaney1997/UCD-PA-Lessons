@@ -1,1 +1,4 @@
-print(2+5)
+a=2
+b=5
+c=a+b
+print(c)
