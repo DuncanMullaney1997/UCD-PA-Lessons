@@ -34,3 +34,4 @@ print(df.head())
 # print (type(df_target))
 
 print(2+5)
+print(3**2)
