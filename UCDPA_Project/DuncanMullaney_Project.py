@@ -32,3 +32,5 @@ print(df.head())
 # df_target = datasets.load_iris(as_frame = True)['target']
 # print (type(df_feature))
 # print (type(df_target))
+
+print(2+5)
